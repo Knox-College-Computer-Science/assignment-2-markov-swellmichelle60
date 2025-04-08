@@ -1,12 +1,3 @@
-# Michelle (Michael) Radulescu
-# Run in terminal: python babbler.py 10 (name of book).txt 1
-# names of books are as follows: 
-# frankenstein.txt
-# gatsby.txt
-# jekyllandhyde.txt
-# shakespeare.txt (WARNING, WAY LONGER AND LARGER THAN OTHERS)
-# romeo.txt
-
 import random
 import glob
 import sys
@@ -22,6 +13,14 @@ vaguely sounds like the author of the training texts.
 run as: python3 babbler.py 
 or optioanlly with parameters: python3 babbler.py 2 tests/test1.txt 5 
 """
+
+# Michelle (Michael) Radulescu
+# Run in terminal: python babbler.py 10 (name of book).txt 1
+# names of books are as follows: 
+# frankenstein.txt
+# gatsby.txt
+# jekyllandhyde.txt
+# shakespeare.txt (WARNING, WAY LONGER AND LARGER THAN OTHERS)
 
 # ------------------- Implementation Details: -------------------------------
 # Our entire graph is a dictionary
